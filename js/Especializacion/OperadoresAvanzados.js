@@ -3,11 +3,6 @@ let myText = "Un texto cualquiera";
 console.log(myText + ". " + "Con un final cualquiera");
 
 
-
-
-
-
-
 /*let exponent = 3;
 let numberSample = 7;
 
